@@ -5,3 +5,7 @@ h1.classList.add("naya","special", "purana");
 
 h1.classList.remove("naya");
 h1.classList.toggle("naya");
+
+
+
+
