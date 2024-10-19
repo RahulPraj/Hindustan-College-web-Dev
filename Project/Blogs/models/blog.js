@@ -13,9 +13,10 @@ let blogSchema = mongoose.Schema({
         required: true 
     },
 
-    Comment:{
+    comment:{
         type: String,
-        trim: true
+        trim: true,
+        required:true
     }
 })
 
